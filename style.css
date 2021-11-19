@@ -1,0 +1,33 @@
+body{
+    background-color:lavender;
+    font-family: 'Libre Baskerville', serif;
+}
+.header_div{
+    background-color:rgb(192, 113, 192);
+    color:royalblue;
+}
+.header_div p{
+    font-family: 'Oxygen', sans-serif;
+    color:rgb(124, 195, 223);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Oxygen', sans-serif;
+    font-size: 12px;
+    font-weight: bolder;
+    letter-spacing:3px;
+    width:130px;
+}
+.copy_right_footer{
+    position: fixed;
+    color:springgreen;
+    bottom:0;
+    width:100%;
+    font-size:18px;
+    line-height:3;
+    text-align:center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+    background:orange;
+}
